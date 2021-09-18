@@ -2,8 +2,12 @@ Hello, my name is 4̵̡̧̛̲̺̱̠̪̙̪̖̗̞̮͆͗͗̓͒̓̕0̸͆͛̌̈́̽́͒
 
 Languages i'm best at: Python.
 
-Languages i'm okay at: Maybe Java, syntax is easy to pick back up, but haven't touched it in ages. Solidity, but only recently picked it up.
+Languages i'm currently learning: Solidity for ETH blockchain related development. C for a cool systems programming class. RISC-V Assembly for a cool systems architecture class.
+
+Languages i'm okay at: Maybe Java, syntax is easy to pick back up, but haven't touched it in ages.
 
 Languages i can act like i know but only look at a few times: Javascript, C++, SQL, and maybe some other random shit i might have made a program with. 
+
+Languages that i learned in school for who knows what reason: Scheme/R5RS. Why/
 
 This is my more lowkey account for more lowkey things that i like doing on the side not connected to my main accounts at all, so i guess enjoy that.
