@@ -1,4 +1,5 @@
-Hello, my name is 4̵̡̧̛̲̺̱̠̪̙̪̖̗̞̮͆͗͗̓͒̓̕0̸̪͓̳͚̝͆͛̌̈́̽́͒4̶̨̡̦͙͍͉͍̲̞͔̀̓͆̓͆̀̃̉̌͂̔̕͝ͅ, but i guess you can call me ą̵̻͇͕̪̘̻͖̮̺͕̆̾̽́͠͠n̶̦̬͌̆͒͗̇̋͗̉̍͠ͅẏ̷̱͔̬̰̬̮̏̏̾͂̌̀̈́̋̓̕̕t̸͍̘̬̝̰̞̜͔͓̘͈̔̂͌͜ḧ̵̬͖̺́̿̀͠į̵̞͈̪̖̣̲͇̘̻̲͈̱̅̍̔̈́̕n̴̡̨̻̝̞̲̫͕̙̞͚͍͚̪̉̈́̆͆̽͝ͅg̶̢͔͚̮̫̲̞̯̫̟͆͐̀́͛́͌̎͘͜. Anyways, i code for fun, and i like learning new stuff. Currently a sophomore in college going for . . . can you guess what degree? Of course, computer science and engineering, yup. If you didn't guess that then idk what to tell you.
+## Hola
+Hello, my name is **4̵̡̧̛̲̺̱̠̪̙̪̖̗̞̮͆͗͗̓͒̓̕0̸̪͓̳͚̝͆͛̌̈́̽́͒4̶̨̡̦͙͍͉͍̲̞͔̀̓͆̓͆̀̃̉̌͂̔̕͝ͅ**, but i guess you can call me **ą̵̻͇͕̪̘̻͖̮̺͕̆̾̽́͠͠n̶̦̬͌̆͒͗̇̋͗̉̍͠ͅẏ̷̱͔̬̰̬̮̏̏̾͂̌̀̈́̋̓̕̕t̸͍̘̬̝̰̞̜͔͓̘͈̔̂͌͜ḧ̵̬͖̺́̿̀͠į̵̞͈̪̖̣̲͇̘̻̲͈̱̅̍̔̈́̕n̴̡̨̻̝̞̲̫͕̙̞͚͍͚̪̉̈́̆͆̽͝ͅg̶̢͔͚̮̫̲̞̯̫̟͆͐̀́͛́͌̎͘͜**. Anyways, i code for fun, and i like learning new stuff. Currently a sophomore in college going for . . . can you guess what degree? Of course, computer science and engineering, yup. If you didn't guess that then idk what to tell you.
 
 ### Languages i'm best at: 
   * Python.
