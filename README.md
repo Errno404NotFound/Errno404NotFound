@@ -14,6 +14,7 @@ Hello, my name is **4̵̡̧̛̲̺̱̠̪̙̪̖̗̞̮͆͗͗̓͒̓̕0̸͆͛̌̈́̽́
 
 ### Languages i can act like i know but only look at a few times: 
   * Javascript for some discord.js, and some node.js. 
+  * HTML/CSS for some random web dev stuff at some point.
   * C++ for who knows what reason at this point. 
   * SQL because i wanted to learn how DBs worked, but gave up on that. 
   * Maybe some other random shit i might have made a program with or watched vids about like brainfuck. 
